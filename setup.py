@@ -7,7 +7,7 @@ setuptools.setup(
     name="dialogpt2", # Replace with your own username
     version='1.0',
     author="ysig",
-    author_email="y.siglidis@gmail.com",
+    author_email="yiannis@echochamber.be",
     description="DialoGTP2 train/gen",
     long_description=long_description,
     long_description_content_type="text/markdown",
